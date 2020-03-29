@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(C:\Users\Administrator\source\repos\GKD\ToolKits\duilib\..\Tmp\)包含从另一个项目(base.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  duilib.vcxproj -> C:\Users\Administrator\source\repos\GKD\ToolKits\duilib\..\Libs\duilib_d.lib

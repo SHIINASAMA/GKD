@@ -1,0 +1,123 @@
+﻿  StdAfx.cpp
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusheaders.h(701): warning C4458: “nativeCap”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusheaders.h(716): note: 参见“Gdiplus::CustomLineCap::nativeCap”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusimageattributes.h(368): warning C4458: “nativeImageAttr”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusimageattributes.h(382): note: 参见“Gdiplus::ImageAttributes::nativeImageAttr”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusmatrix.h(301): warning C4458: “nativeMatrix”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusmatrix.h(315): note: 参见“Gdiplus::Matrix::nativeMatrix”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusbrush.h(95): warning C4458: “nativeBrush”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdiplusbrush.h(108): note: 参见“Gdiplus::Brush::nativeBrush”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspen.h(467): warning C4458: “nativePen”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspen.h(481): note: 参见“Gdiplus::Pen::nativePen”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspath.h(891): warning C4458: “nativePath”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspath.h(905): note: 参见“Gdiplus::GraphicsPath::nativePath”的声明
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspath.h(1078): warning C4458: “nativeIterator”的声明隐藏了类成员
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\gdipluspath.h(1092): note: 参见“Gdiplus::GraphicsPathIterator::nativeIterator”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(339): warning C4456: “clrColor”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(328): note: 参见“clrColor”的声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(310): note: 编译 类 模板 成员函数 "void ui::LabelTemplate<ui::Control>::PaintText(ui::IRenderContext *)" 时
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\progress.h(10): note: 参见对正在编译的 类 模板 实例化 "ui::LabelTemplate<ui::Control>" 的引用
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(341): warning C4456: “dwClrColor”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(329): note: 参见“dwClrColor”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(346): warning C4456: “clrColor”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(339): note: 参见“clrColor”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(348): warning C4456: “dwClrColor”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\label.h(329): note: 参见“dwClrColor”的声明
+  AnimationManager.cpp
+  AnimationPlayer.cpp
+  ChildBox.cpp
+  HBox.cpp
+  TabBox.cpp
+  TileBox.cpp
+  VBox.cpp
+  CircleProgress.cpp
+  VirtualListBox.cpp
+  Define.cpp
+  Image.cpp
+  Placeholder.cpp
+  Bitmap.cpp
+  Brush.cpp
+  Clip.cpp
+  Factory.cpp
+  IRender.cpp
+  Matrix.cpp
+  Path.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\render\path.cpp(59): warning C4267: “参数”: 从“size_t”转换到“INT”，可能丢失数据
+c:\users\administrator\source\repos\gkd\toolkits\duilib\render\path.cpp(74): warning C4267: “参数”: 从“size_t”转换到“INT”，可能丢失数据
+c:\users\administrator\source\repos\gkd\toolkits\duilib\render\path.cpp(114): warning C4267: “参数”: 从“size_t”转换到“INT”，可能丢失数据
+  Pen.cpp
+  正在生成代码...
+  正在编译...
+  Render.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\render\render.cpp(9): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  UIlib.cpp
+  ApiWrapper.cpp
+  DpiManager.cpp
+  MultiLangSupport.cpp
+  OnScreenKeyboardManager.cpp
+  Shadow.cpp
+  StringUtil.cpp
+  TimerManager.cpp
+  Window.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\window.cpp(1864): warning C4838: 从“int”转换到“BYTE”需要收缩转换
+  Box.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\box.cpp(280): warning C4456: “callback”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\box.cpp(263): note: 参见“callback”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\box.cpp(315): warning C4456: “callback”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\box.cpp(298): note: 参见“callback”的声明
+  Control.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(751): warning C4456: “callback”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(734): note: 参见“callback”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(786): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(789): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(794): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\control.cpp(798): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  WindowBuilder.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(65): warning C4456: “nAttributes”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(57): note: 参见“nAttributes”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(91): warning C4456: “nAttributes”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(57): note: 参见“nAttributes”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(96): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(123): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(132): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(143): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(149): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(155): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(168): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(177): warning C4456: “pstr”的声明隐藏了上一个本地声明
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\core\windowbuilder.cpp(60): note: 参见“pstr”的声明
+  GlobalManager.cpp
+  Markup.cpp
+  Combo.cpp
+  List.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\list.cpp(226): warning C4457: “pControl”的声明隐藏了函数参数
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\list.cpp(214): note: 参见“pControl”的声明
+  Progress.cpp
+  RichEdit.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(806): warning C4458: “fWordWrap”的声明隐藏了类成员
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(182): note: 参见“ui::CTxtWinHost::fWordWrap”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(915): warning C4458: “fAllowBeep”的声明隐藏了类成员
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(183): note: 参见“ui::CTxtWinHost::fAllowBeep”的声明
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(2393): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\richedit.cpp(2400): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  ScrollBar.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\scrollbar.cpp(445): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+c:\users\administrator\source\repos\gkd\toolkits\duilib\control\scrollbar.cpp(449): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  Slider.cpp
+  TreeView.cpp
+  UnZip.cpp
+c:\users\administrator\source\repos\gkd\toolkits\duilib\utils\unzip.cpp(3508): warning C4457: “buf”的声明隐藏了函数参数
+  c:\users\administrator\source\repos\gkd\toolkits\duilib\utils\unzip.cpp(3475): note: 参见“buf”的声明
+  WinImplBase.cpp
+  正在生成代码...
+  duilib.vcxproj -> C:\Users\Administrator\source\repos\GKD\ToolKits\duilib\..\libs\x64\duilib_d.lib

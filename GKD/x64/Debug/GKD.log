@@ -1,0 +1,8 @@
+﻿  MainForm.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  MainThread.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  WorkerThread.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  正在生成代码...
+  GKD.vcxproj -> C:\Users\Administrator\source\repos\GKD\x64\Debug\GKD.exe

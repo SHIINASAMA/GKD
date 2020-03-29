@@ -1,0 +1,53 @@
+﻿  des.cpp
+  file_util.cpp
+  file_util_posix.cpp
+  file_util_win.cpp
+  default_message_pump.cpp
+  message_loop.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  message_loop_proxy.cpp
+  message_pump.cpp
+  win_io_message_pump.cpp
+  win_message_pump.cpp
+  win_ui_message_pump.cpp
+  cpu.cpp
+  network_util.cpp
+  lock_posix.cpp
+  lock_win.cpp
+  semaphore_posix.cpp
+  semaphore_win.cpp
+  waitable_event_posix.cpp
+  waitable_event_win.cpp
+  atomicops_internals_x86_gcc.cc
+  正在生成代码...
+  正在编译...
+  modp_b64.cc
+  framework_thread.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  thread_local_posix.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  thread_local_win.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  thread_manager.cpp
+c:\users\administrator\source\repos\gkd\toolkits\base\thread\thread_local.h(80): warning C4312: “reinterpret_cast”: 从“int”转换到更大的“void *”
+  thread_posix.cpp
+  thread_win.cpp
+  time.cpp
+  time_posix.cpp
+  time_win.cpp
+  at_exit.cpp
+  base64.cpp
+  cmd_line_args.cpp
+  string_number_conversions.cpp
+  string_util.cpp
+  object_watcher.cpp
+  path_util.cpp
+  platform_string_util.cpp
+  security_util.cpp
+  shared_memory.cpp
+  正在生成代码...
+  正在编译...
+  win_util.cpp
+  正在生成代码...
+  ConvertUTF.c
+  base.vcxproj -> C:\Users\Administrator\source\repos\GKD\ToolKits\base\..\libs\x64\base_d.lib
