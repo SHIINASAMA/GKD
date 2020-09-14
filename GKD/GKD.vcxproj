@@ -23,7 +23,7 @@
     <ProjectGuid>{FEEAF379-9CAA-4C08-B31F-0EBB76241A4E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>GKD</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -72,30 +72,31 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Administrator\source\repos\GKD\ToolKits;$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)\Bin\ToolKits;$(IncludePath)</IncludePath>
     <OutDir>$(SolutionDir)\Bin\</OutDir>
     <IntDir>$(SolutionDir)\Tmp\</IntDir>
-    <ReferencePath>$(VC_ReferencesPath_x86)</ReferencePath>
+    <ReferencePath>$(VC_ReferencesPath_x86);</ReferencePath>
     <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>C:\Users\Administrator\source\repos\GKD\ToolKits;$(IncludePath)</IncludePath>
-    <OutDir>$(ProjectDir)\Bin</OutDir>
-    <IntDir>$(ProjectDir)\Tmp</IntDir>
+    <IncludePath>$(SolutionDir)\ToolKits\;$(IncludePath)</IncludePath>
+    <OutDir>$(SolutionDir)\Bin\</OutDir>
+    <IntDir>$(SolutionDir)\Tmp\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(SolutionDir)\Bin\</OutDir>
     <IntDir>$(SolutionDir)\Tmp\</IntDir>
-    <IncludePath>C:\Users\Administrator\source\repos\GKD\ToolKits;$(IncludePath)</IncludePath>
-    <ReferencePath>C:\Users\Administrator\source\repos\GKD\Bin;C:\Users\Administrator\source\repos\GKD\ToolKits;C:\Users\Administrator\source\repos\GKD\ToolKits\libs;$(ReferencePath)</ReferencePath>
-    <LibraryPath>C:\Users\Administrator\source\repos\GKD\Bin;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <ReferencePath>$(ReferencePath)</ReferencePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(ProjectDir)\Bin</OutDir>
     <IntDir>$(ProjectDir)\Tmp</IntDir>
+    <IncludePath>$(SolutionDir)\ToolKits\;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
